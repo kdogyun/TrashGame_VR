@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Beam
+  - TrashBox
+  - projectile
+  - FxTemporaire
+  - Start
+  - ScoreManager
+  - Study
+  - Bullet
+  - LCon
+  - RCon
+  - Error
+  - TrashBox_Plastic
+  - TrashBox_Mettal
+  - TrashBox_General
+  - TrashBox_Food
+  - TrashBox_Others
+  - TrashBox_Paper
+  - Can_Mettal
+  - Card_General
+  - Toothpaste_General
+  - GlassBottle_Others
+  - Pesticide_Mettal
+  - Socks_Others
+  - Glass_Others
+  - Doll_Others
+  - Dress_Others
+  - Pet_Plastic
+  - Chair
+  - TV
+  - Coconut_General
+  - Banana_Food
+  - Scrubber_General
+  - Pringles_Others
+  - Snack_Others
+  - Detergent_Plastic
+  - Milk_Paper
+  - Pot-Others
+  - Bone_General
+  - Tumbler_Plastic
+  - Papercup_Paper
+  - CD_General
+  - Pencil_General
+  - Battery_Others
+  - Speaker
+  - Paper_Paper
+  - Stand
+  - Candle_General
+  - Paper
+  - Undefined
+  - Recipt_General
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
